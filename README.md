@@ -1,6 +1,3 @@
-<img width="135" height="30" alt="image" src="https://github.com/user-attachments/assets/ab439172-872c-4f42-bf74-674d8a286e8a" /># Jobs-Analysis
-I conducted an in-depth analysis of the data job market with a specific focus on data analysis role. This project examines top paying positions, identifies the most in-demand skills, and highlights the intersection between high demand and high salary within the data analytics field
-
 ## Background 
 Motivated by the need to navigate the data analyst job market more strategically, this project was developed to identify the most in-demand and highest-paying skills, thereby simplifying the job search process for aspiring professionals.
 
